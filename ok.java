@@ -1,4 +1,5 @@
 class ok{
+void git(){
 }
-class git{
+
 }
