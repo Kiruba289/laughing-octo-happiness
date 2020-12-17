@@ -1,6 +1,6 @@
 class ok{
 void git(){
-System.out.println("happy");
+System.out.println(" not happy");
 }
 
 }
